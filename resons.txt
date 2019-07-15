@@ -9,3 +9,4 @@ Before I came to max I was working as a web developer at a small company named E
    | there is a lot I don't know or need a refresher for.
  | just getting practice with merges
 this will not be merged
+Correction This will not be merged
